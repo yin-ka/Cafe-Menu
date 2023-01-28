@@ -20,7 +20,7 @@
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link]()
+- [Live Demo Link](https://yin-ka.github.io/Cafe-Menu/)
 
 
 ## 💻 Getting Started 
